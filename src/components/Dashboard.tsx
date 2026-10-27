@@ -114,7 +114,7 @@ export const Dashboard: React.FC = () => {
             Lista de Programas
           </a>
           <a
-            href="https://docs.google.com/spreadsheets/d/1_0EWAO0gLU_ymjDPbze4HPj2gQH_OZSSdS6Op-4Z6U8/edit?usp=sharing"
+            href="https://docs.google.com/spreadsheets/d/1lmo2-TVlDejN5dnm3-RmfzEcBgo_okI31OqhUPBY34g/edit?usp=sharing"
             target="_blank" rel="noopener noreferrer"
             className="w-full md:w-auto text-center bg-orange-600 hover:bg-orange-700 text-white font-medium py-2.5 px-6 rounded-xl transition-colors text-sm md:text-base"
           >
